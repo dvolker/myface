@@ -1,6 +1,6 @@
 name             'dvolker-myface'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'dv'
+maintainer_email 'noone@nowhere.com'
 license          'All rights reserved'
 description      'Installs/Configures dvolker-myface'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
